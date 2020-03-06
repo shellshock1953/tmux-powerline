@@ -54,7 +54,7 @@ if [ -z $TMUX_POWERLINE_RIGHT_STATUS_SEGMENTS ]; then
 		#"cpu 240 245" \
 		"load 45 232" \
 		# "tmux_mem_cpu_load 232 259" \
-		#"battery 240 245" \
+		"battery 240 245" \
 		#"weather 37 255" \
 		#"rainbarf 0 ${TMUX_POWERLINE_DEFAULT_FOREGROUND_COLOR}" \
 		#"xkb_layout 125 117" \
